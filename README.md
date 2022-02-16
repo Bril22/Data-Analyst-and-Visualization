@@ -1,0 +1,2 @@
+# brilaja
+Interpreting data seismic
